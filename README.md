@@ -11,7 +11,7 @@ Con el fin de hacer un proyecto innovador y buscar soluciones ante un juego en d
 ![Logo](https://i.ibb.co/rkqQ211/Blue-Illustration-Game-Presentation.jpg)
 
 
-## ESTUDIANTES
+## ESTUDIANTES DE LA UNIVERSIDAD DEL MAGDALENA 
 
 - Jose Granados 
 - Alejandra Ureche
